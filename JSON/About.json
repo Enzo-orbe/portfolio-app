@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Enzo Orbe",
+        "profession": "Developer",
+        "photo": "no hay",
+        "about_me": "Tengo 22 años, inicie hace poco tiempo en el mundo del desarrollo web, con el objetivo de aprender la mayor cantida de tegnologias posibles",
+        "skills": [
+            "Javascript",
+            "Nodejs",
+            "Reactjs",
+            "HTML",
+            "CSS",
+            "SASS",
+            "MongoDB"
+        ]
+    }
+]
