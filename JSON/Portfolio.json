@@ -2,13 +2,13 @@
     {
         "name": "Proyecto 1",
         "description": "Utilice React, y Sass para trabajar los estilos, es una app de peliculas con la Api de moovie db",
-        "image": "No hay",
+        "image": "https://i.ibb.co/9NM6cv0/moviesapp.png",
         "Link": "https://gallant-boyd-d9a806.netlify.app"
     },
     {
         "name": "Proyecto 2",
         "description": "Utilice React y CSS para trabajar los estilos, es una aplicacion del clima con la Api de openWeather",
-        "image": "No hay",
+        "image": "https://i.ibb.co/xFrcDzm/climapp.png",
         "Link": "https://vigilant-payne-d252d7.netlify.app"
     }
 ]
